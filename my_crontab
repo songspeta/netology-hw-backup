@@ -1,1 +1,1 @@
-* * * * * /home/spet/netology-hw-backup/backup.sh
+0 2 * * * /home/spet/netology-hw-backup/backup.sh
